@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Pramesh Kumar  
-🚀 **QA Engineer | Manual & Automation Testing | Selenium | Java | Docker | AWS**  
+🚀 **QA Automation | Manual & Automation Testing | Selenium | Java | Docker | AWS | LambdaTest** 
 
 ## 💻 About Me  
 - ✅ 8+ years of total experience in **Software Testing** (Manual + Automation), including 3 years in Automation using Selenium, Java, TestNg  
